@@ -1,0 +1,12 @@
+{
+    "name": "marceus/proserve_heroku",
+    "authors": [
+        {
+            "name": "mama00",
+            "email": "mixture050@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
