@@ -75,7 +75,7 @@ $mail->Password = "Judes@007";
 $mail->SetFrom("proserveclientcenter@gmail.com");
 $mail->Subject = $title;
 $mail->Body = $msg;
-$mail->AddAddress($mj);
+$mail->AddAddress($jude);
 
 
  if(!$mail->Send()) {
